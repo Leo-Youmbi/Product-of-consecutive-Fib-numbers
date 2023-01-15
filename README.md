@@ -22,7 +22,7 @@ Some Examples of Return:
 return [21, 34, True],   
 since F(8) = 21, F(9) = 34 and 714 = 21 * 34
 
-2. productFib(800)  
+2. productFib(800):  
 return [34, 55, False],  
 since F(8) = 21, F(9) = 34, F(10) = 55 and 21 * 34 < 800 < 34 * 55
 
